@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Este é um novo projeto [**React Native**](https://reactnative.dev) inicializado usando [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ![cep001](https://github.com/devjubis/react_native_cep_api/assets/110790833/09d1b4df-35fc-4c01-ab90-1ec1ac5ecfd6)
 ![cepAvenidaPaulista](https://github.com/devjubis/react_native_cep_api/assets/110790833/5b9e9838-9462-4a3e-a872-1fda5035bb87)
