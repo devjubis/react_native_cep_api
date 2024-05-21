@@ -1,79 +1,30 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
+![cep001](https://github.com/devjubis/react_native_cep_api/assets/110790833/09d1b4df-35fc-4c01-ab90-1ec1ac5ecfd6)
+![cepAvenidaPaulista](https://github.com/devjubis/react_native_cep_api/assets/110790833/5b9e9838-9462-4a3e-a872-1fda5035bb87)
+![cepError](https://github.com/devjubis/react_native_cep_api/assets/110790833/41464f4d-95fd-4ae8-9d2c-53f0b366b88d)
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+# Pesquisando CEP
 
-## Step 1: Start the Metro Server
+Éum aplicativo React Native que permite aos usuários buscar informações detalhadas sobre um CEP específico. Ao inserir o CEP desejado e pressionar 'buscar', o aplicativo se conecta a uma API em JSON e recupera instantaneamente o logradouro, bairro, cidade e estado correspondentes. Com uma interface simples e direta, o aplicativo oferece uma maneira rápida e eficiente de acessar essas informações essenciais
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## 🔥 Introdução
 
-To start Metro, run the following command from the _root_ of your React Native project:
+Bem-vindo ao meu aplicativo Buscador de CEP, um app desenvolvido em React Native com o objetivo de simplificar a busca por informações de CEP. Neste projeto, busquei criar uma ferramenta intuitiva e eficiente que permita aos usuários obter informações detalhadas sobre um CEP específico de forma rápida e fácil.
 
-```bash
-# using npm
-npm start
+As instruções para utilizar o aplicativo são simples: basta inserir o CEP desejado e pressionar o botão de busca. O aplicativo se conectará automaticamente a uma API em JSON para recuperar as informações correspondentes ao CEP fornecido. Além disso, implementei um botão de limpar para facilitar a remoção dos dados exibidos após uma busca.
 
-# OR using Yarn
-yarn start
-```
+Para garantir uma experiência mais amigável, adicionei validação de entrada: se o usuário tentar buscar sem digitar um CEP válido, será exibido um código de erro indicando que o campo está vazio.
 
-## Step 2: Start your Application
+Com uma interface simples e direta, nosso objetivo é fornecer aos usuários uma experiência fluida e eficaz na obtenção dessas informações essenciais.
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+## 📦 Tecnologias usadas:
 
-### For Android
+* [React Native](https://reactnative.dev/)
+* [Node.JS](https://nodejs.org/en)
+* [Axios](https://axios-http.com/ptbr/)
 
-```bash
-# using npm
-npm run android
+## 💡 Expressões de gratidão
 
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+* Para suporte, mande um email para cjuliana837@hotmail.com
+* Link para o seu linkedin [Meu linkedin](in/julianacastrosilva)
