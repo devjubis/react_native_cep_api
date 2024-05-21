@@ -27,4 +27,4 @@ Com uma interface simples e direta, nosso objetivo é fornecer aos usuários uma
 ## 💡 Expressões de gratidão
 
 * Para suporte, mande um email para cjuliana837@hotmail.com
-* Link para o seu linkedin [Meu linkedin](in/julianacastrosilva)
+* Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/julianacastrosilva/)
