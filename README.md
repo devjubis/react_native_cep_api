@@ -6,7 +6,7 @@ Este é um novo projeto [**React Native**](https://reactnative.dev) inicializado
 
 # Pesquisando CEP
 
-Éum aplicativo React Native que permite aos usuários buscar informações detalhadas sobre um CEP específico. Ao inserir o CEP desejado e pressionar 'buscar', o aplicativo se conecta a uma API em JSON e recupera instantaneamente o logradouro, bairro, cidade e estado correspondentes. Com uma interface simples e direta, o aplicativo oferece uma maneira rápida e eficiente de acessar essas informações essenciais
+É um aplicativo React Native que permite aos usuários buscar informações detalhadas sobre um CEP específico. Ao inserir o CEP desejado e pressionar 'buscar', o aplicativo se conecta a uma API em JSON e recupera instantaneamente o logradouro, bairro, cidade e estado correspondentes. Com uma interface simples e direta, o aplicativo oferece uma maneira rápida e eficiente de acessar essas informações essenciais
 
 ## 🔥 Introdução
 
